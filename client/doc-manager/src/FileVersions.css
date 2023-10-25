@@ -1,5 +1,8 @@
 .file-version {
-  border: dotted deeppink;
-  padding: 20px;
+  border: dotted black;
   text-align: left;
+  color: white;
+  padding: 1%;
+  font-size: 9px;
 }
+
